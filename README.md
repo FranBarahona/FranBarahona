@@ -5,7 +5,7 @@
 <img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="400px" alt="developer" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franbarahona&label=Profile%20views&color=0e75b6&style=flat" alt="franbarahona" /> </p>
 
-- 🔭 I’m currently working on **I-strategies**
+- 🔭 I’m currently working on **Noya ventures Inc.**
 
 - 🌱 I’m currently learning **all technologies**
 
