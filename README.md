@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **franbarahona21@oulook.com**
+- 📫 How to reach me **franbarahona21@outlook.com**
 
 - 📄 Know about my experiences [none](none)
 
